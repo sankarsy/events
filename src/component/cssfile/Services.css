@@ -1,0 +1,28 @@
+.custom-bg-1 {
+    background-color:#7E4555 !important;
+    color: #ffffff !important; /* Optional */
+}
+.custom-bg-2 {
+    background-color:#DB4242 !important;
+    color: #ffffff !important; /* Optional */
+}
+.custom-bg-3 {
+    background-color:FFFFFF !important;
+   
+}
+.services{
+    padding-top: 30px;
+    background-color: #5C341C;
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+.services header{
+    margin-left: 110px;
+}
+.service-container{
+    padding-top: 30px;
+}
+
+.service-container .service-card{
+    height: 350px;
+}

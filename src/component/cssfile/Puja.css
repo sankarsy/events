@@ -1,0 +1,17 @@
+.puja-card img{
+    height: 270px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+}
+
+.puja-card{
+    margin-bottom: 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+}
+
+.puja-card .card-body{
+    height: 60px;
+}
